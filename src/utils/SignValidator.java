@@ -44,8 +44,5 @@ public class SignValidator {
         return c == '(' || c == '{' || c == '[';
 
     }
-
-
-    
     
 }
